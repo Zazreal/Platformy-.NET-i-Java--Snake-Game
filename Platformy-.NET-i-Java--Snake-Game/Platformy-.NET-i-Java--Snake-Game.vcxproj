@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\Desktop\temp\.classpath" />
+    <None Include="..\..\..\..\Desktop\temp\.project" />
+    <None Include="..\..\..\..\Desktop\temp\.settings\org.eclipse.jdt.core.prefs" />
+    <None Include="..\..\..\..\Desktop\temp\bin\Entity.class" />
+    <None Include="..\..\..\..\Desktop\temp\bin\FruitGenerator.class" />
+    <None Include="..\..\..\..\Desktop\temp\bin\GameFrame.class" />
+    <None Include="..\..\..\..\Desktop\temp\bin\GamePanel$UserInputAdapter.class" />
+    <None Include="..\..\..\..\Desktop\temp\bin\GamePanel.class" />
+    <None Include="..\..\..\..\Desktop\temp\bin\Obstacles.class" />
+    <None Include="..\..\..\..\Desktop\temp\bin\Rabbit.class" />
+    <None Include="..\..\..\..\Desktop\temp\bin\Snake.class" />
+    <None Include="..\..\..\..\Desktop\temp\bin\SnakeGameMain.class" />
+    <None Include="..\..\..\..\Desktop\temp\doc\allclasses-index.html" />
+    <None Include="..\..\..\..\Desktop\temp\doc\allpackages-index.html" />
+    <None Include="..\..\..\..\Desktop\temp\doc\constant-values.html" />
+    <None Include="..\..\..\..\Desktop\temp\doc\deprecated-list.html" />
+    <None Include="..\..\..\..\Desktop\temp\doc\element-list" />
+    <None Include="..\..\..\..\Desktop\temp\doc\Entity.html" />
+    <None Include="..\..\..\..\Desktop\temp\doc\FruitGenerator.html" />
+    <None Include="..\..\..\..\Desktop\temp\doc\GameFrame.html" />
+    <None Include="..\..\..\..\Desktop\temp\doc\GamePanel.html" />
+    <None Include="..\..\..\..\Desktop\temp\doc\GamePanel.UserInputAdapter.html" />
+    <None Include="..\..\..\..\Desktop\temp\doc\help-doc.html" />
+    <None Include="..\..\..\..\Desktop\temp\doc\index.html" />
+    <None Include="..\..\..\..\Desktop\temp\doc\jquery-ui.overrides.css" />
+    <None Include="..\..\..\..\Desktop\temp\doc\member-search-index.js" />
+    <None Include="..\..\..\..\Desktop\temp\doc\module-search-index.js" />
+    <None Include="..\..\..\..\Desktop\temp\doc\Obstacles.html" />
+    <None Include="..\..\..\..\Desktop\temp\doc\overview-tree.html" />
+    <None Include="..\..\..\..\Desktop\temp\doc\package-search-index.js" />
+    <None Include="..\..\..\..\Desktop\temp\doc\package-summary.html" />
+    <None Include="..\..\..\..\Desktop\temp\doc\package-tree.html" />
+    <None Include="..\..\..\..\Desktop\temp\doc\package-use.html" />
+    <None Include="..\..\..\..\Desktop\temp\doc\Rabbit.html" />
+    <None Include="..\..\..\..\Desktop\temp\doc\script.js" />
+    <None Include="..\..\..\..\Desktop\temp\doc\search.js" />
+    <None Include="..\..\..\..\Desktop\temp\doc\serialized-form.html" />
+    <None Include="..\..\..\..\Desktop\temp\doc\Snake.html" />
+    <None Include="..\..\..\..\Desktop\temp\doc\SnakeGameMain.html" />
+    <None Include="..\..\..\..\Desktop\temp\doc\stylesheet.css" />
+    <None Include="..\..\..\..\Desktop\temp\doc\tag-search-index.js" />
+    <None Include="..\..\..\..\Desktop\temp\doc\type-search-index.js" />
+    <None Include="..\..\..\..\Desktop\temp\Java_Projekt_TN_254021.pdf" />
+    <None Include="..\..\..\..\Desktop\temp\JAVA_UML_DIAGRAM.drawio" />
+    <None Include="..\..\..\..\Desktop\temp\src\Entity.java" />
+    <None Include="..\..\..\..\Desktop\temp\src\FruitGenerator.java" />
+    <None Include="..\..\..\..\Desktop\temp\src\GameFrame.java" />
+    <None Include="..\..\..\..\Desktop\temp\src\GamePanel.java" />
+    <None Include="..\..\..\..\Desktop\temp\src\Obstacles.java" />
+    <None Include="..\..\..\..\Desktop\temp\src\Rabbit.java" />
+    <None Include="..\..\..\..\Desktop\temp\src\Snake.java" />
+    <None Include="..\..\..\..\Desktop\temp\src\SnakeGameMain.java" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\Desktop\temp\HighScore.txt" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{6400f8ff-631b-47ca-9a4e-488cc10f42e4}</ProjectGuid>
+    <RootNamespace>PlatformyNETiJavaSnakeGame</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

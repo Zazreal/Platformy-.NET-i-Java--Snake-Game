@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="doc">
+      <UniqueIdentifier>{18594b95-cd54-4d71-a3d4-92f0781d7ac8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="bin">
+      <UniqueIdentifier>{e3664407-4407-4209-92de-be5f2cf6d78f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{1f2f02f7-3713-4aeb-818b-8d1007d82012}</UniqueIdentifier>
+    </Filter>
+    <Filter Include=".settings">
+      <UniqueIdentifier>{25e4b52d-c9b4-4fc0-a187-6e96088ee57d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\Desktop\temp\.classpath" />
+    <None Include="..\..\..\..\Desktop\temp\.project" />
+    <None Include="..\..\..\..\Desktop\temp\Java_Projekt_TN_254021.pdf" />
+    <None Include="..\..\..\..\Desktop\temp\JAVA_UML_DIAGRAM.drawio" />
+    <None Include="..\..\..\..\Desktop\temp\doc\type-search-index.js">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\allclasses-index.html">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\allpackages-index.html">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\constant-values.html">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\deprecated-list.html">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\element-list">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\Entity.html">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\FruitGenerator.html">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\GameFrame.html">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\GamePanel.html">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\GamePanel.UserInputAdapter.html">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\help-doc.html">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\index.html">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\jquery-ui.overrides.css">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\member-search-index.js">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\module-search-index.js">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\Obstacles.html">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\overview-tree.html">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\package-search-index.js">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\package-summary.html">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\package-tree.html">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\package-use.html">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\Rabbit.html">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\script.js">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\search.js">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\serialized-form.html">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\Snake.html">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\SnakeGameMain.html">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\stylesheet.css">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\doc\tag-search-index.js">
+      <Filter>doc</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\bin\Entity.class">
+      <Filter>bin</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\bin\FruitGenerator.class">
+      <Filter>bin</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\bin\GameFrame.class">
+      <Filter>bin</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\bin\GamePanel$UserInputAdapter.class">
+      <Filter>bin</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\bin\GamePanel.class">
+      <Filter>bin</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\bin\Obstacles.class">
+      <Filter>bin</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\bin\Rabbit.class">
+      <Filter>bin</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\bin\Snake.class">
+      <Filter>bin</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\bin\SnakeGameMain.class">
+      <Filter>bin</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\src\Entity.java">
+      <Filter>src</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\src\FruitGenerator.java">
+      <Filter>src</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\src\GameFrame.java">
+      <Filter>src</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\src\GamePanel.java">
+      <Filter>src</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\src\Obstacles.java">
+      <Filter>src</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\src\Rabbit.java">
+      <Filter>src</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\src\Snake.java">
+      <Filter>src</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\src\SnakeGameMain.java">
+      <Filter>src</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\temp\.settings\org.eclipse.jdt.core.prefs">
+      <Filter>.settings</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\Desktop\temp\HighScore.txt" />
+  </ItemGroup>
+</Project>
